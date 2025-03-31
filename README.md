@@ -23,7 +23,7 @@ How to Play
 - Click the Restart button to reset the game.
 
 Screenshots
-*(Add screenshots of the game here if available)*
+![image alt](https://github.com/Vats2025/Tic-Tac-Toe/blob/d8d9cd26e7d2dead8c63e586f1192bc570428fa1/Screenshot%202025-04-01%20015253.png)
 
 Contributing
 You can enhance this project by adding features such as:
